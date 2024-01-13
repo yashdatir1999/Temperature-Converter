@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.screen-bg{
+    background-image: url(https://i.pinimg.com/564x/e4/0c/71/e40c7156448e39f6cdc7931fec146260.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.labelc{
+    font-family: sans-serif;
+    font-size: 1vmax;
+    font-weight: 700;
+}
+.input{
+    font-weight: 500;
+    box-shadow: 0 0 0.3vmax black;
+    outline: none;
+    background-color: transparent;
+}
+.contener{
+    border-radius: 0.5vmax;
+    margin: 1vmax;
+    box-shadow: 0 0 0.5vmax black;
+    backdrop-filter: blur(2vmax);
+}
