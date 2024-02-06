@@ -1,8 +1,8 @@
-# React + Vite
+# Temperature Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've created a Temperature Converter using React.js that seamlessly converts Celsius to Fahrenheit.
+The user inputs the temperature in Celsius, triggering an instant conversion to Fahrenheit. 
+React's state management ensures real-time updates, providing a smooth user experience.
+The code optimally utilizes React components and state hooks to enhance modularity and maintainability
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here](https://temperature-converter-beta-kohl.vercel.app/)
